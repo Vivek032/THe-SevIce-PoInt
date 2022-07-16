@@ -1,2 +1,2 @@
 # THe-ServIce-PoInt
-A Complete Sevices Solution
+A Complete Services Solutions
