@@ -1,2 +1,2 @@
-# THe-SevIce-PoInt
+# THe-ServIce-PoInt
 A Complete Sevices Solution
